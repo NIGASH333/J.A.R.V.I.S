@@ -84,32 +84,26 @@ The application uses the `deepseek-r1:1.5b` parameter model by default, as it is
 Below are some screenshots of the JARVIS Assistant in action:
 
 1. **Main Interface**  
-  
-   ![image1](https://github.com/user-attachments/assets/727fea66-930a-4759-b056-b60a5f57e214)
+  ![image1](https://github.com/user-attachments/assets/5834ebf6-a790-4513-8fd9-e1f9bf57a2c2)
 
 2. **Voice Commands**  
-
-   ![image2](https://github.com/user-attachments/assets/dc0388c3-35e6-4466-813a-b938e2cbf95b)
+![image2](https://github.com/user-attachments/assets/9555f6c6-a493-45a0-9f5f-30e039233984)
 
 3. **Chat History**  
-
-  ![image3](https://github.com/user-attachments/assets/732e1bb5-406e-46ce-acbf-9e67f8a09e0b)
+![image3](https://github.com/user-attachments/assets/5b9c172e-bf67-409b-a49c-b7cdf949d0d9)
 
 4. **Closing Chat Updates**  
-
- ![image4](https://github.com/user-attachments/assets/af8a860b-f129-40f2-8834-023f38f3b27d)
+![image4](https://github.com/user-attachments/assets/0f47cbae-4948-4c0b-9ad2-8811632a0e41)
 
 5. **Deepseek-r1 Query**  
-
-![image5](https://github.com/user-attachments/assets/63834db2-d546-4165-aeba-7767f92ace3e)
+![image5](https://github.com/user-attachments/assets/2b1acd7f-b307-4865-8fcf-2fea2497982b)
 
 6. **Voice Commands**  
-
-![image6](https://github.com/user-attachments/assets/844a22e0-18e6-478d-bcf6-544bf47d5f64)
+![image6](https://github.com/user-attachments/assets/60b2073f-828d-4e7d-bc56-693d52c759b9)
 
 7. **Weather Functionality**  
+![image7](https://github.com/user-attachments/assets/67e15c00-ba83-4b60-9b9b-691b8ec3141f)
 
-![image7](https://github.com/user-attachments/assets/7f10e2a6-8b3d-48ff-8401-d4832ed9f8f2)
 
 
 ## Database
@@ -140,6 +134,3 @@ For any queries or support, feel free to contact:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
