@@ -128,7 +128,7 @@ Here are some ideas for improving the JARVIS Assistant in the future:
 For any queries or support, feel free to contact:
 
 - **Mobile**: 9345306576
-- **Email**: [nigasjnigash0845@gmail.com](mailto:nigashnigash0845@gmail.com)
+- **Email**: [nigashnigash0845@gmail.com](mailto:nigashnigash0845@gmail.com)
 
 ## Contributing
 
